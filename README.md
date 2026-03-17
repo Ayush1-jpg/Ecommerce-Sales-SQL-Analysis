@@ -2,7 +2,7 @@
 
 📊 Project Overview
 
-This project focuses on analyzing e-commerce sales data using SQL to extract meaningful business insights. The analysis helps understand sales performance, customer behavior, and order trends.
+This project analyzes e-commerce sales data using SQL to extract meaningful business insights. It focuses on understanding sales performance, customer behavior, and order trends.
 
 🛠️ Tools Used
 
@@ -40,13 +40,22 @@ Fulfillment methods influence order processing and distribution
 
 🧾 SQL Queries
 
-All SQL queries used for analysis are available in the file:
+All SQL queries are included in the file:
 ecommerce_sales_analysis.sql
-Each query is structured and commented for better understanding.
+Each query is well-structured and commented for better readability.
 
 📁 Files Included
 
 ecommerce_sales_analysis.sql
+
+1_total_revenue.png
+
+2_top_states.png
+
+📸 Sample Output
+
+
+
 
 🚀 Conclusion
 
@@ -58,4 +67,4 @@ Add advanced SQL queries (JOINs, subqueries, CASE statements)
 
 Integrate with Power BI for visualization
 
-Include real dataset or sample data for better reproducibility
+Include dataset for better reproducibility
