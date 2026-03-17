@@ -52,7 +52,11 @@ ecommerce_sales_analysis.sql
 
 2_top_states.png
 
-📸 Sample Output
+## 📸 Sample Output
+
+![Total Revenue](_total_revenue.png)
+
+![Top States](_top_states.png)
 
 
 
