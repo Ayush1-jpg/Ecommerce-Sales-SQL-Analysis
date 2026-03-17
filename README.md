@@ -52,7 +52,9 @@ ecommerce_sales_analysis.sql
 
 2_top_states.png
 
-## 📸 Sample Output
+## 📸 QUERY RESULTS
+
+The following screenshots show the output of key SQL queries executed on the dataset:
 
 ![Total Revenue](_total_revenue.png)
 
